@@ -1,3 +1,3 @@
 # Valinor
 
-TP final de IDS
+TP final de IDS tematizado en LOTR
